@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="get_started">Get Started</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login Button</string>
+    <string name="register">Register</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="state">State</string>
+    <string name="submit">Submit</string>
+    <string name="age_validation_error">Age Validation Error</string>
+    <string name="paswword_error">Password Error</string>
+    <string-array name="States">
+        <item>Uttar Pradesh</item>
+        <item>Karnataka</item>
+        <item>Haryana</item>
+        <item>Assam</item>
+        <item>Tamil Nadu</item>
+        <item>Maharashtra</item>
+    </string-array>
+
+</resources>
